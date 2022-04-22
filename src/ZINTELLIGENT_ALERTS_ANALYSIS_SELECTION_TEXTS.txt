@@ -1,0 +1,10 @@
+APPCNTXA	Reliable alerts: summary
+APPCNTXD	Reliable alerts: detailed list
+CNTXNAME	Full context name
+CONFIG		Show configuration
+DATEFROM	Date from
+DATETO		Date to
+SUPCNTXA	False alerts: summary
+SUPCNTXD	False alerts: detailed list
+TOPLISTS	Top reliable/false alerts
+TOTAL		Alerts analysis summary
